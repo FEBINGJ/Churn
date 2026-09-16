@@ -20,3 +20,6 @@ The script prints accuracy, precision, recall, and an example prediction. It sav
 - `contract_length`: contract duration in months
 
 The data is synthetic, so the project is for learning and demonstration rather than production decisions.
+
+
+Both Branches Feature1 and Feature2 was created, merged and pull in git and VS Code.
